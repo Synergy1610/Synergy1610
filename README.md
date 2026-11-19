@@ -1,6 +1,4 @@
-╷╷╭┬╮   ╭─╮╭─╮╭─╮╭─╮╷ ╷╭─╮
-│ │││   ╰─╮│ ││ │├┬╯╰┬╯├─┤
-╵ ╵ ╵   ╰─╯╰─╯╰─╯╵╰╴ ╵ ╵ ╵
+## Hello, I'm Soorya 🤘
 
 **CSE Student @ UVCE, Bengaluru | Linux Enthusiast | Developer**
 
@@ -47,14 +45,7 @@ I enjoy learning by doing, breaking things, figuring out why they broke, and occ
 - Computer networking
 - Cloud infrastructure
 - AI agent orchestration
-
-### `$ current_interests`
-
-- Building software with AI-assisted development workflows.
-- Exploring local AI models and autonomous agent systems.
-- Learning more about cybersecurity through hands-on labs and CTFs.
-- Experimenting with Linux, system customization and open-source tools.
-- Understanding how systems work under the hood.
+- AI assisted software development workflows. 
 
 ### `$ beyond_the_terminal`
 
