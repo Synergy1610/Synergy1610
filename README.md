@@ -30,7 +30,7 @@ I enjoy learning by doing, breaking things, figuring out why they broke, and occ
 - 🤖 Experimenting with AI coding agents, local LLMs and agent workflows
 - 🛠️ Enjoy building practical projects and experimenting with developer tools
 
-### `$ tech --stack`
+### `$ tech stack`
 
 **Languages**
 - Python
