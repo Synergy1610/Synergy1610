@@ -1,4 +1,4 @@
-### Hey, I'm Soorya
+## Hey, I'm Soorya
 
 **CSE Student @ UVCE, Bengaluru | Linux Enthusiast | Developer**
 
