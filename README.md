@@ -1,57 +1,77 @@
-## Hey, I'm Soorya
+# Hey, I'm Soorya
 
-**CSE Student @ UVCE, Bengaluru | Linux Enthusiast | Developer**
+**CSE Student @ UVCE, Bengaluru · Developer · AI & Systems Enthusiast**
 
-I'm a Computer Science student who enjoys exploring how things work, experimenting with technology and building things along the way.
+I'm a Computer Science student interested in understanding how technology works under the hood and building things with it.
 
-I've been tinkering with Linux and computers since around middle school, and that curiosity has gradually grown into interests in software development, cybersecurity, networking and AI-powered development tools.
+I've been experimenting with Linux and computers since middle school. Over time, that curiosity has grown into software development, AI-powered development tools, cybersecurity and systems engineering.
 
-I enjoy learning by doing, breaking things, figuring out why they broke, and occasionally building something useful in the process.
+I enjoy learning by building — developing applications, experimenting with local LLMs, designing multi-agent workflows and tinkering with Linux.
 
 ---
 
 ### `$ whoami`
 
 - 🎓 Computer Science & Engineering student at **UVCE, Bengaluru**
-- 🐧 Linux enthusiast — currently messing around on **Omarchy** and **Manjaro**
-- 💻 Exploring software development with Python and C
-- 🔐 Interested in cybersecurity, networking and cloud computing
-- 🤖 Experimenting with AI coding agents, local LLMs and agent workflows
-- 🛠️ Enjoy building practical projects and experimenting with developer tools
+- 🐧 Linux enthusiast, currently exploring **Omarchy and the Linux ecosystem**
+- 💻 Interested in software development and building practical tools
+- 🤖 Exploring AI-assisted development, agentic workflows and local LLMs
+- 🔐 Interested in cybersecurity, networking and cloud infrastructure
+- ⚙️ Enjoy experimenting with automation and open-source software
 
-### `$ tech stack`
+---
+
+### `$ ai_explorations`
+
+A major part of my technical journey has been experimenting with AI beyond just using chatbots.
+
+- **AI Coding Agents** — Hands-on experimentation with OpenCode, agent harnesses, skills and AI-assisted development workflows.
+- **Multi-Agent Systems** — Designing workflows where independent coding agents collaborate through shared specifications, role definitions, Git branches and pull requests.
+- **Local LLMs** — Experimenting with llama.cpp, Ollama, model quantization and running language models locally.
+- **Agent Tooling** — Building reusable OpenCode skills for project interviews, planning and scaffolding.
+- **AI Integration** — Exploring how LLMs can be integrated into practical applications and automated workflows.
+---
+
+### `$ tech_stack`
 
 **Languages**
 - Python
 - C
 - HTML & CSS
 
-**Systems & Tools**
-- Linux (Arch, Omarchy, Fedora, CachyOS)
+**Systems & Development**
+- Linux (Omarchy, Arch-based environments)
 - Git & GitHub
 - Bash / CLI tooling
 - Neovim
 - Obsidian
 
-**AI & Development**
-- OpenCode
-- AI coding agents and agent skills
-- Local LLMs
-- Multi Agent Collaborations
-- Ollama
+---
 
-**Currently Exploring**
-- Cybersecurity & penetration testing fundamentals
-- Computer networking
-- Cloud infrastructure
-- AI agent orchestration
-- AI assisted software development workflows. 
+### `$ currently_exploring`
+
+- Cybersecurity and penetration testing fundamentals
+- Computer networking and network architecture
+- Cloud infrastructure and deployment
+- AI agent orchestration and multi-agent systems
+- Local inference and LLM experimentation
+- Building better software development workflows
+
+---
 
 ### `$ beyond_the_terminal`
 
 When I'm not experimenting with technology, you'll probably find me:
 
-- 🥋 Training in kickboxing or practicing calisthenics.
-- 🎮 Playing story-driven games.
-- 🎧 Listening to indie, psychedelic and electronic music.
-- 🏍️ Exploring new roads on two wheels.
+- Training in kickboxing or practicing calisthenics.
+- Playing story-driven games.
+- Listening to indie, psychedelic and electronic music.
+- Exploring new roads on two wheels.
+
+---
+
+### `$ find_me`
+
+- **GitHub:** [@Synergy1610](https://github.com/Synergy1610)
+- **LinkedIn:** [Sooryakiran Edathadan](https://www.linkedin.com/in/sooryakiran-edathadan/)
+---
